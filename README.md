@@ -1,1 +1,1 @@
-# tango_with_django_project
+Project following the Tango with Django book for The University of Glasgow WAD course
